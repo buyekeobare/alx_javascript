@@ -20,4 +20,4 @@ function createClassRoom (numbersOfStudents) {
     return students;
   }
   
-  classRoom = createClassRoom(10);
+  const classRoom = createClassRoom(10);
