@@ -177,3 +177,45 @@ Start of the execution queue
 100
 End of the loop printing
 Final code block to be executed
+
+# Evaluation Quiz
+
+0. What is lexical scoping in JavaScript?
+
+The process of resolving variable names at runtime based on their lexical position in the source code
+
+1. How do you use binding in JavaScript?
+
+By creating a connection between a function and a specific object as its this value
+
+2. What is the purpose of the this keyword in JavaScript?
+
+To refer to the current object within a method
+
+3. What is closure in JavaScript?
+
+A way to define private variables and methods
+
+4. How do you use closure in JavaScript?
+
+By nesting functions and accessing variables from outer functions
+
+5. How can you simulate private methods with closure in JavaScript?
+
+By encapsulating private methods within an object
+
+6. How do you handle asynchronous operations with callbacks?
+
+By passing callback functions to asynchronous functions
+
+7. What are callbacks in JavaScript?
+
+Functions passed as arguments to other functions and executed at a later time
+
+8. How do you chain different closures in JavaScript?
+
+By nesting multiple closure functions together
+
+9. What is the execution stack order in JavaScript?
+
+Last In, First Out (LIFO)

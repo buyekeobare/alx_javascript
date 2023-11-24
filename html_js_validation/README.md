@@ -115,7 +115,7 @@ By appending error messages to the DOM dynamically
 
 2. How can you perform data validation during form submissions using JavaScript?
 
-By using the validate() function in JavaScript
+By adding event listeners to form submission events
 
 3. How can you reset a form to its initial state after submission using JavaScript?
 
@@ -127,8 +127,8 @@ By adding a return false statement in the form's onsubmit event
 
 5. How can you implement basic form validation using JavaScript?
 
-By using the validate() function in JavaScript
+By manually checking form field with conditional statements
 
 6. How can you handle form submissions and perform data validation using JavaScript?
 
-By manually extracting form data and validating it using conditional statements
+By listening for the submit event on the form and executing validation logic

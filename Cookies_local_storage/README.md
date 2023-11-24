@@ -235,14 +235,10 @@ Local storage, session storage, and indexedDB
 1. How can you dynamically create and append multiple HTML elements using JavaScript?
 
 By using a loop to create the elements and the appendChild() method to append them
-By using the createElement() method multiple times and manually appending them
-By using the innerHTML property to generate the HTML markup
 
 2. How can you access and modify the value of an HTML input field using JavaScript?
 
 By using the value property of the input element
-By using the setAttribute() method with the value attribute
-By using the innerText property of the input element
 
 3. How can you check if local storage is supported in the user's browser?
 
