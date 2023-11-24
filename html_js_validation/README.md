@@ -109,31 +109,26 @@ Note: You may need to use the DOM manipulation methods, such as getElementById()
 
 # Evaluation Quiz
 
-9. How can you display validation error messages to the user using JavaScript?
+1. How can you display validation error messages to the user using JavaScript?
 
 By appending error messages to the DOM dynamically
 
-10. How can you perform data validation during form submissions using JavaScript?
-    Score: 0.0
+2. How can you perform data validation during form submissions using JavaScript?
 
 By using the validate() function in JavaScript
-By adding event listeners to form submission events
-By using the HTML5 required attribute on form fields
-By using AJAX requests to validate data on the server side
-I don't know
 
-11. How can you reset a form to its initial state after submission using JavaScript?
+3. How can you reset a form to its initial state after submission using JavaScript?
 
 By using the reset() method on the form element
 
-17. How can you prevent a form from being submitted using JavaScript?
+4. How can you prevent a form from being submitted using JavaScript?
 
 By adding a return false statement in the form's onsubmit event
 
-18. How can you implement basic form validation using JavaScript?
+5. How can you implement basic form validation using JavaScript?
 
 By using the validate() function in JavaScript
 
-19. How can you handle form submissions and perform data validation using JavaScript?
+6. How can you handle form submissions and perform data validation using JavaScript?
 
 By manually extracting form data and validating it using conditional statements
