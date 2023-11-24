@@ -44,7 +44,8 @@ In a file 1-index.html:
 
 Reuse the code of the previous task
 Modify the way you are setting cookies to expire in 10 days
-Requirements:
+
+### Requirements:
 
 Access your code with http://localhost:8080/1-index.html
 Use vanilla javascript to complete the task
@@ -63,7 +64,8 @@ If the cookie does not exist, it should return an empty string
 Modify the function showCookies:
 
 It should display the paragraph Email: EMAIL - Firstname: FIRSTNAME
-Requirements:
+
+### Requirements:
 
 Access your code with http://localhost:8080/2-index.html
 Use vanilla javascript to complete the task
@@ -97,7 +99,8 @@ It should display Welcome FIRSTNAME (logout)
 (logout) should be a link
 The link font should be display in normal weight, italic, and 10px to the right of the message
 On click, call the function deleteCookiesAndShowForm, hide the welcome message, and show the form
-Requirements:
+
+### Requirements:
 
 Access your code with http://localhost:8080/3-index.html
 Use vanilla javascript to complete the task
@@ -111,7 +114,8 @@ Add js-cookie to your html page using the jsdelivr CDN
 Delete the getCookie function and use js-cookie get function instead
 Use js-cookie remove function within deleteCookiesAndShowForm function
 Use js-cookie set function within setCookiesAndShowWelcomeMessage function (new function that sets cookies and calls showWelcomeMessageOrForm)
-Requirements:
+
+### Requirements:
 
 Access your code with http://localhost:8080/4-index.html
 Build the Welcome message with Javascript without using HTML
@@ -143,7 +147,8 @@ Tips:
 At this time, you should be able to see the list of available items
 If you click on two of them and refresh the browser, you should see the message You previously had 2 items in your cart
 If you open a new tab, you should also see the message You previously had 2 items in your cart
-Requirements:
+
+### Requirements:
 
 Build the DOM using Javascript only
 You must use the local storage of your browser and not a cookie or session storage
@@ -213,7 +218,7 @@ If the cart is not empty, it should add the list of items within the cart with t
 When the user clicks on remove, it should call the function removeItemfromCart
 At the top of the cart, add an item named Clear my cart. When the user clicks on it, it should call the function clearCart
 
-Requirements:
+### Requirements:
 
 Build the DOM using Javascript only
 You must use the session storage of your browser and not a cookie or local storage
