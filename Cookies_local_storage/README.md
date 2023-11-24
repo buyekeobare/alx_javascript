@@ -225,3 +225,100 @@ You must use the session storage of your browser and not a cookie or local stora
 Access your code with http://localhost:8080/7-index.html
 Build every feature with vanilla Javascript only
 src/index.js should stay empty - all your Javascript must be in your HTML, inside <script> tag
+
+# Evaluation Quiz
+
+0. What are the browser web storage options available in JavaScript?
+
+Local storage, session storage, and indexedDB
+
+1. How can you dynamically create and append multiple HTML elements using JavaScript?
+
+By using a loop to create the elements and the appendChild() method to append them
+By using the createElement() method multiple times and manually appending them
+By using the innerHTML property to generate the HTML markup
+
+2. How can you access and modify the value of an HTML input field using JavaScript?
+
+By using the value property of the input element
+By using the setAttribute() method with the value attribute
+By using the innerText property of the input element
+
+3. How can you check if local storage is supported in the user's browser?
+
+By using the navigator.storage API
+
+4. What is the maximum storage capacity for local storage in most web browsers?
+
+5MB
+
+5. How can you change the CSS styles of an HTML element using JavaScript?
+
+By modifying the style property of the element
+By adding or removing CSS classes from the element
+By using the setAttribute() method
+
+6. How can you create a new HTML element using JavaScript?
+
+By using the createElement() method
+
+7. How can you remove an HTML element from the DOM using JavaScript?
+
+By using the removeChild() method
+By using the parentNode property
+By using the remove() method
+
+8. How can you read cookies with JavaScript?
+
+By accessing the cookies property of the window object
+
+9. How can you change the text content of an HTML element using JavaScript?
+
+By using the innerHTML property
+By using the textContent property
+By using the innerText property
+
+10. What is the difference between local storage and session storage?
+    Score: 1.0
+
+Local storage is permanent, while session storage is temporary and cleared when the browser is closed
+
+11. How can you access an HTML element using JavaScript?
+
+By using the getElementById() method
+By using the getElementsByClassName() method
+By using the querySelector() method
+
+12. What are some specific settings you can apply to a cookie?
+
+Expiry date, domain, and path
+
+13. How can you remove an item from local storage using JavaScript?
+
+By using the removeItem() method
+
+14. What is the purpose of the js-cookie library?
+
+To simplify the creation and manipulation of cookies in JavaScript
+
+15. How can you add an event listener to an HTML element using JavaScript?
+
+By using the addEventListener() method
+
+16. How can you create a cookie using JavaScript?
+
+By using the document.cookie property
+
+17. What does DOM stand for in web development?
+
+Document Object Model
+
+18. How can you change the attribute value of an HTML element using JavaScript?
+
+By using the setAttribute() method
+By directly modifying the attribute property of the element
+By using the removeAttribute() method
+
+19. How can you use the setItem() method in local storage?
+
+To store data in local storage
